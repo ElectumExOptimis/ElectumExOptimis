@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java Projects </b>
-  - [Java Framwork](https://github.com/ElectumExOptimis/Java-Framework---CosmoLink.git)
+  - [Java Framework](https://github.com/ElectumExOptimis/Java-Framework---CosmoLink.git)
 - <b>C++</b>
   - [C++ Application](https://github.com/ElectumExOptimis/CPP---Roster-Management-System.git)
   - 
